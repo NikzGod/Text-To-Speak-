@@ -1,3 +1,5 @@
 pyTelegramBotAPI==4.14.0
 gTTS==2.5.1
 pydub==0.25.1
+
+8255749602:AAEWG892OLPSheATFU5xp6mkimzhQe8EA8c
